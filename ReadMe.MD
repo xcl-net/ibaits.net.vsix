@@ -21,3 +21,6 @@
 1. 插件仅支持iBatis.NET项目
 2. 插件仅支持C#接口方法
 3. 插件仅支持XML SQL定义
+
+如果觉的本项目对你有用,请打赏
+![打赏码](images/reward_code.png)
