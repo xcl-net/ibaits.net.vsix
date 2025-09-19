@@ -30,5 +30,6 @@
 
 如果该插件对您的开发工作有帮助，欢迎通过下方渠道支持项目发展：
 - 扫码支持：![项目支持二维码](images/reward_code.png)
+- https://buymeacoffee.com/xiaochuanling
 - 代码贡献：前往项目GitHub仓库提交Issue或Pull Request，共同完善功能；
 - 问题反馈：若使用中遇到bug或需求建议，可在GitHub Issues板块留言，我们会尽快响应。
